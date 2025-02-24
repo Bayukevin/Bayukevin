@@ -1,4 +1,4 @@
-![logo](https://github.com/Bayukevin/Bayukevin/blob/main/Github%20Banner.png)
+![](https://github.com/ayukevin/Bayukevin/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Bayu Kevin Farindra</h1>
 <h3 align="center">A passionate full stack developer from Indonesia</h3>
 
