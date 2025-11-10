@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Understanding the desires of UI/UX design**
 
-- 👨‍💻 All of my projects are available at [https://bayukevinfarindra.netlify.app/](https://bayukevinfarindra.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bayukevin.com/](https://bayukevin.com/)
 
 - 💬 Ask me about **react, and laravel**
 
 - 📫 How to reach me **bayukevinfarindra23@gmail.com**
 
-- 📄 Know about my experiences [https://bayukevinfarindra.netlify.app/](https://bayukevinfarindra.netlify.app/)
+- 📄 Know about my experiences [https://bayukevin.com/](https://bayukevin.com/)
 
 - ⚡ Fun fact **I think I am funny😊**
 
